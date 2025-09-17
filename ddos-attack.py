@@ -41,6 +41,8 @@ print "[====                ] 20% "
 time.sleep(1)
 print "[=====               ] 25%"
 time.sleep(1)
+print "[                    ] ***"
+time.sleep(1)
 print "[==========          ] 50%"
 time.sleep(1)
 print "[===============     ] 75%"
