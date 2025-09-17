@@ -27,8 +27,8 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print "[   Starting……       ]    "
-time.sleep(1)
+--print "[   Starting……       ]    "
+--time.sleep(1)
 print "[                    ] 0% "
 time.sleep(1)
 print "[=                   ] 5% "
